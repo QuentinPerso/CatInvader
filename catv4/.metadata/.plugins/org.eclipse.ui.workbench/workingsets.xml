@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1433409059669_1" label="catv4grad" name="catv4grad">
+<item elementID="=catgame-android" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=catgame-core" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=catgame-desktop" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=catv4grad" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1433408925689_0" label="Window Working Set" name="Aggregate for window 1433408925688"/>
+</workingSetManager>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_id">754826071784</string>   
+<string name="achievement_beginner_explorer">CgkI6J2P-fsVEAIQAg</string>
+<string name="achievement_bronze_explorer">CgkI6J2P-fsVEAIQAw</string>
+<string name="achievement_silver_explorer">CgkI6J2P-fsVEAIQBA</string>
+<string name="achievement_gold_explorer">CgkI6J2P-fsVEAIQBQ</string>
+<string name="achievement_master_explorer">CgkI6J2P-fsVEAIQBg</string>
+<string name="achievement_thorough_explorer">CgkI6J2P-fsVEAIQBw</string>
+<string name="achievement_high_scorer">CgkI6J2P-fsVEAIQCA</string>
+<string name="achievement_space_master">CgkI6J2P-fsVEAIQCQ</string>
+<string name="achievement_tinker">CgkI6J2P-fsVEAIQCg</string>
+<string name="achievement_mechanic">CgkI6J2P-fsVEAIQCw</string>
+<string name="achievement_master_grease_cat">CgkI6J2P-fsVEAIQDA</string>
+<string name="leaderboard_id">CgkI6J2P-fsVEAIQAQ</string>
+</resources>

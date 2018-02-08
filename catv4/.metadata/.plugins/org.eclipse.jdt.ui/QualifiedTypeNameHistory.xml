@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.EventListener"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.InputListener"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.audio.Music"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.Sprite"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.Touchable"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.math.MathUtils"/>
+<fullyQualifiedTypeName name="quentin.jeu.cat.catinvader.Enemy.Type"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Game"/>
+<fullyQualifiedTypeName name="quentin.jeu.cat.CatGame"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="quentin.jeu.cat.utils.Save"/>
+</qualifiedTypeNameHistroy>
